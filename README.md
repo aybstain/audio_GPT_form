@@ -42,7 +42,7 @@ https://github.com/aybstain/audio_GPT_form/assets/103702856/8c41821f-8124-46a5-a
 # REPORT 
 [Project report.pdf](https://github.com/aybstain/audio_GPT_form/files/11602232/Project.report.pdf)
 
-#Acknowledgments
+# Acknowledgments
 A heartfelt appreciation goes to Professor Mahmoudi for offering invaluable guidance and expertise during the entire progression of this project.
 
 
