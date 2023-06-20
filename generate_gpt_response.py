@@ -1,6 +1,6 @@
 import openai
 def generate_gpt_response(text):
-    openai.api_key = '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'
+    openai.api_key = 'your_key'
     instruction = "in this form Q: A) B) C) D)"
     prompt = f"{text}{instruction}"
     
