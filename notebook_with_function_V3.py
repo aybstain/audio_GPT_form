@@ -43,7 +43,7 @@ def one_for_all_V3():
     
     #generate_questions_with_answers from chatgpt API
     instruction = "in this form Q: A) B) C) D)"
-    openai.api_key = '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'
+    openai.api_key = 'your_key'
     # Define the instruction and prompt for the model
     prompt = f"{text}{instruction}"
 
